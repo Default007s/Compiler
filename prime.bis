@@ -1,0 +1,12 @@
+Bismillah
+x = 12
+i = 2
+bool = 1
+while i x <
+	y = x i %
+	if y 0 ==
+		bool = 0
+	endif
+	i = i 1 +
+end
+output bool

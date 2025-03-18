@@ -1,0 +1,15 @@
+Bismillah
+terms = 20
+a = 0
+b = 1
+i = 0
+output a
+output b
+while i terms <
+	fibo = a b +
+	output fibo
+	a = b
+	b = fibo
+	i = i 1 +
+end
+

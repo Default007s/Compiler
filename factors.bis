@@ -1,0 +1,11 @@
+Bismillah
+x = 20
+i = 1
+while i x <=
+	y = x i %
+	if y 0 ==
+		output i
+	endif
+	i = i 1 +
+end
+

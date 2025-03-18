@@ -1,0 +1,9 @@
+Bismillah
+x = 5 
+y = x 2 %
+if y 0 ==
+	output 1
+endif
+if y 0 !=
+	output 0
+endif

@@ -1,0 +1,28 @@
+Bismillah
+
+question = 1
+temp = question
+answer = 0
+numOfDigits = 0
+
+while temp 0 >
+	temp = temp 10 /
+	numOfDigits = numOfDigits 1 +
+end
+
+i = 0
+temp = question
+while temp 0 >
+	digit = temp 10 %
+	answer = answer 10 * digit +
+	i = i 1 +
+	temp = temp 10 /
+end
+
+if answer question ==
+	output 1
+endif
+if answer question !=
+	output 0
+endif
+

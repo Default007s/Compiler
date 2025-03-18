@@ -1,0 +1,7 @@
+Bismillah
+x = 5
+i = 1
+while i 10 <=
+	output x i *
+	i = i 1 +
+end
